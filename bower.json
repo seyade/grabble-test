@@ -1,0 +1,22 @@
+{
+  "name": "grabble-test",
+  "description": "test for grabble in react and redux",
+  "main": "",
+  "authors": [
+    "Seyade <b.kuen@hotmail.co.uk>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/seyade/grabble-test",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "components-font-awesome": "^4.7.0",
+    "bootstrap": "^3.3.7"
+  }
+}
